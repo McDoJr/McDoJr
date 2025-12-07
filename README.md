@@ -1,5 +1,3 @@
-# 👋 Hey, I’m Karl Bejerano
-
 I’m a **junior full-stack web developer** experienced in **Next.js, Svelte, React, Node.js, Express, Supabase, Strapi, PostgreSQL, and MySQL**. I love building **scalable, real-time applications** with a strong focus on performance.
 
 I’m also a **Minecraft plugin developer** working with **Spigot, Paper, BungeeCord, and NMS** to create custom gameplay features.
