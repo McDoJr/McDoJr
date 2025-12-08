@@ -12,13 +12,13 @@ I’m passionate about solving problems, learning quickly, and building polished
 ## 🧰 Tech Stack
 
 ### **Frontend**
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,svelte,react,next" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,svelte,react,next,redux" />
 
 ### **Mobile**
 <img src="https://skillicons.dev/icons?i=react" /> (Expo)
 
 ### **Backend & Databases**
-<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,mysql,postgres,java" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,redis,mysql,postgres,java" />
 
 ### **Minecraft Development**
 <img src="https://skillicons.dev/icons?i=java" />  
