@@ -18,7 +18,7 @@ I’m passionate about solving problems, learning quickly, and building polished
 <img src="https://skillicons.dev/icons?i=react" /> (Expo)
 
 ### **Backend & Databases**
-<img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,prisma,redis,mysql,postgres,docker,supabase,java" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma,redis,mysql,postgres,docker,supabase,java" />
 
 ### **Minecraft Development**
 <img src="https://skillicons.dev/icons?i=java" />  
